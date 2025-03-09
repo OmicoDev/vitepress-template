@@ -1,0 +1,13 @@
+{
+  "private": "true",
+  "scripts": {
+    "format": "prettier --write .",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "prettier": "3.5.3",
+    "vitepress": "2.0.0-alpha.4"
+  }
+}
