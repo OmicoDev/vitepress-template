@@ -7,7 +7,7 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "prettier": "3.7.3",
+    "prettier": "3.7.4",
     "vitepress": "2.0.0-alpha.15"
   }
 }
