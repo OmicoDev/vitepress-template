@@ -8,6 +8,6 @@
   },
   "devDependencies": {
     "prettier": "3.9.6",
-    "vitepress": "2.0.0-alpha.18"
+    "vitepress": "2.0.0-alpha.19"
   }
 }
